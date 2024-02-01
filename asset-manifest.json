@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/My_Secret_Notes_Website/static/css/main.26f3bbca.css",
+    "main.js": "/My_Secret_Notes_Website/static/js/main.9209ea67.js",
+    "index.html": "/My_Secret_Notes_Website/index.html",
+    "main.26f3bbca.css.map": "/My_Secret_Notes_Website/static/css/main.26f3bbca.css.map",
+    "main.9209ea67.js.map": "/My_Secret_Notes_Website/static/js/main.9209ea67.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.26f3bbca.css",
+    "static/js/main.9209ea67.js"
+  ]
+}
