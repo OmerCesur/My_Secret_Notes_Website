@@ -1,6 +1,7 @@
 {
   "name": "my_secret_notes_website",
   "version": "1.0.0",
+  "homepage": "https://omercesur.github.io/My_Secret_Notes_Website/",
   "description": "",
   "keywords": [],
   "main": "src/index.js",
